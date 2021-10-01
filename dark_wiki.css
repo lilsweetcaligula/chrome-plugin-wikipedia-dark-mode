@@ -1,0 +1,85 @@
+html {
+  background-color: black;
+  color: grey;
+}
+
+body {
+  background-color: black;
+  color: grey;
+}
+
+h1 {
+  color: grey !important;
+}
+
+h2 {
+  color: grey !important;
+}
+
+h3 {
+  color: grey !important;
+}
+
+h4 {
+  color: grey !important;
+}
+
+h5 {
+  color: grey !important;
+}
+
+h6 {
+  color: grey !important;
+}
+
+a {
+  color: rgb(120, 90, 255) !important;
+}
+
+#mw-page-base {
+  background-color: black;
+  color: grey;
+}
+
+#content {
+  background-color: black;
+  color: grey;
+}
+
+#mw-head {
+  background-color: black;
+  color: grey;
+}
+
+#mw-head li {
+  background: black;
+  color: grey;
+}
+
+#mw-panel {
+  background-color: black;
+  color: grey;
+}
+
+#toc {
+  background-color: black;
+  color: grey;
+}
+
+#toc h1 {
+  color: grey;
+}
+
+#toc h2 {
+  color: grey;
+}
+
+.infobox {
+  background-color: black !important;
+  color: grey !important;
+}
+
+.thumbinner {
+  background-color: black !important;
+  color: grey !important;
+}

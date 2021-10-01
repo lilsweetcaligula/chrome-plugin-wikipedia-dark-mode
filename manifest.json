@@ -5,9 +5,11 @@
   "description": "This extension will enable dark mode for Wikipedia",
   "version": "1.0",
 
-  "action": {
-     "default_popup": "popup.html"
-  },
-
-  "permissions": ["activeTab", "scripting"]
+  "content_scripts": [
+     {
+        "matches":    ["https://en.wikipedia.org/*"],
+        "css":        ["dark_wiki.css"],
+        "js":         ["dark_wiki_script.js"]
+     }
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+
+  "name": "Wikipedia Dark Mode",
+  "description": "This extension will enable dark mode for Wikipedia",
+  "version": "1.0",
+
+  "action": {
+     "default_popup": "popup.html"
+  },
+
+  "permissions": ["activeTab", "scripting"]
+}
